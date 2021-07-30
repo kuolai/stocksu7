@@ -1,0 +1,26 @@
+{
+    "stocks owned": {
+        "01. symbol": "AAPL",
+        "02. shares": "100",
+        "03. price": "146.5500",
+        "04. date_acquired": "2021-07-29",
+        "05. date_sold": "",
+        "06. Sales_price": "",
+        "07. cost": ""
+    },{
+        "01. symbol": "AMZN",
+        "02. shares": "5",
+        "03. price": "",
+        "04. date_acquired": "2021-07-29",
+        "05. date_sold": "",
+        "06. Sales_price": "",
+        "07. cost": ""
+    },{
+    },{
+    },{
+    },{
+    },{
+
+    }
+  
+}
