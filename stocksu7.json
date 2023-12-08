@@ -1,14 +1,14 @@
 {
     "Global Quote": {
         "01. symbol": "AAPL",
-        "02. open": "194.4500",
-        "03. high": "194.7600",
-        "04. low": "192.1100",
-        "05. price": "192.3200",
-        "06. volume": "40895115",
-        "07. latest trading day": "2023-12-06",
-        "08. previous close": "193.4200",
-        "09. change": "-1.1000",
-        "10. change percent": "-0.5687%"
+        "02. open": "193.6300",
+        "03. high": "195.0000",
+        "04. low": "193.5900",
+        "05. price": "194.2700",
+        "06. volume": "47338824",
+        "07. latest trading day": "2023-12-07",
+        "08. previous close": "192.3200",
+        "09. change": "1.9500",
+        "10. change percent": "1.0139%"
     }
 }
