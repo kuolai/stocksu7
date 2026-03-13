@@ -1,3 +1,14 @@
 {
-    "Information": "We have detected your API key as QH2VKN6WE83JA7CQ and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "258.6600",
+        "03. high": "258.9500",
+        "04. low": "254.1800",
+        "05. price": "255.7600",
+        "06. volume": "40400832",
+        "07. latest trading day": "2026-03-12",
+        "08. previous close": "260.8100",
+        "09. change": "-5.0500",
+        "10. change percent": "-1.9363%"
+    }
 }
